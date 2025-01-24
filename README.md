@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgur.com/e0xOuTL.jpeg"  />
 
 ###
 
@@ -28,6 +28,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/xide-dev/xide-dev/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/xide-dev/readme/raw/refs/heads/main/snake.yml" alt="Snake animation" />
 
 ###
